@@ -1,0 +1,7 @@
+type: module
+name: UUID Frontpage
+description: Provides ability to set a entity uuid as frontpage
+core: 8.x
+
+version: '8.0'
+
