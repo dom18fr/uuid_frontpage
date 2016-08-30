@@ -1,1 +1,5 @@
-{ }
+{
+  "name": "drupal/uuid_frontpage",
+  "description": "Provide ability to set an entity uuid as frontpage",
+  "type": "drupal-module",
+}
